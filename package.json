@@ -1,0 +1,34 @@
+{
+  "name": "coprimes-between",
+  "version": "0.0.1",
+  "description": "List of coprime numbers between A and B (inclusive) for a given C.",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/tape/bin/tape test/*.js"
+  },
+  "keywords": [
+    "number",
+    "numbers",
+    "math",
+    "maths",
+    "prime",
+    "coprime",
+    "mathematics",
+    "between"
+  ],
+  "author": {
+    "name": "Luis García Gómez",
+    "email": "garciagomezluis.94@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "is-coprime": "^1.0.0"
+  }
+}
