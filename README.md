@@ -2,6 +2,8 @@
 
 List of [coprimes](https://en.wikipedia.org/wiki/Coprime_integers) numbers between A and B (inclusive) for a given C.
 
+[![Build Status](https://travis-ci.org/garciagomezluis/coprimes-between.svg?branch=master)](https://travis-ci.org/garciagomezluis/coprimes-between)
+
 ## example
 
 ``` js
