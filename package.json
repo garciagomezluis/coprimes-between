@@ -20,6 +20,11 @@
     "mathematics",
     "between"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:garciagomezluis/coprimes-between.git"
+  },
+  "homepage": "https://github.com/garciagomezluis/coprimes-between.git",
   "author": {
     "name": "Luis García Gómez",
     "email": "garciagomezluis.94@gmail.com"
